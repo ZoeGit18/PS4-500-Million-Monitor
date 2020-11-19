@@ -19,13 +19,13 @@ pip3 install -r requirements.txt
 ```
 
 # Run:
-To run the script cd to the path and type python3 main.py or python main.py based on your operating system.
 To add new links, just add the url on newline in links.txt (make sure there's no empty newline space)
 
-then
+Then to run the script cd to the path
 ```
-python3 main.py
+cd python3 main.py
 ``` 
+or python main.py based on your operating system.
 
 # Updated
 Add your gmail email and password inside main.py 

@@ -1,6 +1,6 @@
 # PS5-Monitor
 
-Monitors GameStop, Walmart, Bestbuy, BhPhoto and Target for specific products. When the products become available, your default browser browser will open the link on the the new tab.
+Monitors for  GameStop, Walmart, Bestbuy, BhPhoto and Target for specific products. When the products become available, your default browser will open the link on the the new tab.
 
 # Requirements:
 <ol>
